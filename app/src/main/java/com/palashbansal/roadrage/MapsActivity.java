@@ -57,7 +57,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 	private Notification notification;
 	private MediaPlayer mPlayer;
 
-	private static final boolean simulating = true;
+	private static final boolean simulating = false;
 
 	private LatLng simulateLocation;
 
